@@ -1,0 +1,13 @@
+{
+    "name": "medz/sms",
+    "description": "😈Scenario-based SMS Fusion Send Kit.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seven Du",
+            "email": "shiweidu@outlook.com"
+        }
+    ],
+    "require": {}
+}
